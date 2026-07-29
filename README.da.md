@@ -43,6 +43,7 @@ Den modtagende organisation er selv ansvarlig for at integrere de resulterende b
 python3 reference/python/prisme_binary.py encode examples/example-input.json --output example.prisme
 python3 reference/python/prisme_binary.py inspect example.prisme
 python3 reference/python/prisme_binary.py decode example.prisme --output decoded.json
+...
 
 Se også:
 
