@@ -1,0 +1,7 @@
+{
+  "product": "PRISME demo controller",
+  "version": 1,
+  "language": "en",
+  "capabilities": ["navigation", "local knowledge", "safe shutdown"],
+  "message": "Convert once. Integrate anywhere."
+}
